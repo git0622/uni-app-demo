@@ -1,0 +1,20 @@
+.pub_class {
+  text-align: center;
+  background: #fff;
+  width: 90%;
+  margin: 20px auto;
+}
+.pub_class .list_box {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.pub_class .list_box .list_item {
+  width: 150px;
+  height: 200px;
+  background-color: #0077AA;
+  margin-top: 20px;
+}
+

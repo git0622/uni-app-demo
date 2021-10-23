@@ -1,0 +1,1 @@
+<view class="pub_class"><view class="title">生活展示</view><view class="list_box"><block wx:for="{{list}}" wx:for-item="item" wx:for-index="__i0__" wx:key="_id"><view data-event-opts="{{[['tap',[['fn',['$0'],[[['list','_id',item._id,'url']]]]]]]}}" class="list_item" bindtap="__e"><text>{{item.name}}</text><text>{{item.image}}</text></view></block></view></view>

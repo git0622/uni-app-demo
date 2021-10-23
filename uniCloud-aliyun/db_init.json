@@ -1,0 +1,88 @@
+{
+	"list": {
+		"data": [{
+				"name": "xioahong",
+				"age": 9
+			},
+			{
+				"name": "xioalan",
+				"age": 78
+			},
+			{
+				"name": "xioalv",
+				"age": 78
+			},
+			{
+				"name": "xioazi",
+				"age": 67
+			}
+		]
+	},
+	"banner": {
+		"data": [{
+				"image": 1
+			},
+			{
+				"image": 2
+			},
+			{
+				"image": 3
+			}
+		]
+
+	},
+	"classList": {
+		"data": [{
+				"name": "田园",
+				"image": 1,
+				"url": "http://www.javascriptpeixun.cn/goods/show/580"
+			},
+			{
+				"name": "戈壁",
+				"image": 2,
+				"url": "http://www.javascriptpeixun.cn/goods/show/7"
+			},
+			{
+				"name": "沙滩",
+				"image": 3,
+				"url": "http://www.javascriptpeixun.cn/goods/show/7"
+			}
+		]
+	},
+	"classInfo": {
+		"data": [{
+				"_id": "61727389c0cd1a0001a64c38",
+				"name": "西红柿",
+				"price": 4
+			}, {
+				"_id": "61727389c0cd1a0001a64c39",
+				"name": "土豆",
+				"price": 2
+			},
+			{
+				"_id": "61727389c0cd1a0001a64c3a",
+				"name": "青椒",
+				"price": 8
+			}
+		]
+	},
+	"carList": {
+		"data": []
+	},
+	"lifeList": {
+		"data": [{
+				"name": "西红柿",
+				"url": ""
+			},
+			{
+				"name": "土豆",
+				"url": ""
+			},
+			{
+				"name": "青椒",
+				"url": ""
+			}
+
+		]
+	}
+}

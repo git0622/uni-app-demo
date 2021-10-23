@@ -1,0 +1,7 @@
+.good_bot_nav {
+  position: fixed;
+  left: 0;
+  bottom: 8px;
+  width: 100%;
+}
+

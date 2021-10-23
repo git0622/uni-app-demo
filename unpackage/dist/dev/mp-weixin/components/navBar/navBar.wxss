@@ -1,0 +1,27 @@
+.top_nav_bar {
+  width: 100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 100;
+}
+.top_nav_bar .empty-box {
+  background: rgba(0, 0, 0, 0);
+}
+.top_nav_bar .empty-box.opa {
+  background-color: #4CD964;
+}
+.top_nav_bar .nav_box {
+  height: 45px;
+  background: rgba(0, 0, 0, 0);
+  display: flex;
+  padding: 5px;
+  justify-content: space-between;
+  align-items: center;
+  box-sizing: border-box;
+  width: 100%;
+}
+.top_nav_bar .nav_box.opa {
+  background-color: #4CD964;
+}
+

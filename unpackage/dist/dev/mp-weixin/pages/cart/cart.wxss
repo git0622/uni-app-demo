@@ -1,0 +1,37 @@
+page {
+  background-color: #0077AA;
+}
+.car_box {
+  height: 100%;
+}
+.car_box .list_box {
+  padding: 0 20px;
+}
+.car_box .list_box .list_item {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 100px;
+  border-radius: 10px;
+  background-color: #fff;
+  margin-top: 20px;
+}
+.car_box .list_box .list_item image {
+  width: 50px;
+  height: 50px;
+}
+.car_box .submit_bar_box {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+.car_box .submit_bar_box .submit_bar {
+  display: flex;
+  justify-content: space-between;
+  height: 40px;
+  padding: 0 20px;
+  line-height: 40px;
+  background-color: #fff;
+}
+

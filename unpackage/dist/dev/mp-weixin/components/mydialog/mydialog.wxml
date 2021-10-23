@@ -1,0 +1,1 @@
+<view class="dialog_box"><view class="slot_box"><slot></slot></view><view data-event-opts="{{[['tap',[['fn',['$event']]]]]}}" class="mask" bindtap="__e"></view></view>
